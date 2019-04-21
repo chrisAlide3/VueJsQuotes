@@ -25,4 +25,5 @@ export default {
     .card:hover {
         background-color: azure;
     }
+
 </style>
